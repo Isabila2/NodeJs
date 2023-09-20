@@ -1,6 +1,6 @@
 # NodeJs 
 - Isabella Texeira dos Santos
-
+Ferramentas: Github, nano, nodejs, node-env
 Após a instalação do Node.js (use como base o tutorial do Classroom):
 
 - Para iniciar:
