@@ -4,6 +4,8 @@
 Após a instalação do Node.js (use como base o tutorial do Classroom):
 
 - Para iniciar:
+*Se você já abrir o terminal direto da pasta do nodejs-env, pule esse primeiro código e vá para o 'source...'
+
   Dentro do terminal, digite:
 cd ~/(nome da pasta que o nodejs-env está)/nodejs-env
 
@@ -29,3 +31,6 @@ v20.5.1
 
   Depois de editá-lo, ative digitando:
 node (nome do arquivo editado)
+
+*Para sair, aperte o Ctrl + C
+
