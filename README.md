@@ -38,7 +38,7 @@ no firefox, digite:
 localhost:(8000 + o número do computador)
     
   
-- Para desativar:  
+- Para desativar:    
   Digite:
  deactivate_node
   
