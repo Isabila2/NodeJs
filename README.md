@@ -32,6 +32,10 @@ v20.5.1
   Depois de editá-lo, ative digitando:
 node (nome do arquivo editado)
 
+- Para testar:
+no firefox, digite:
+localhost:(8000 + o número do computador)
+
 *Para sair, aperte o Ctrl + C
 
 - Para sair:
