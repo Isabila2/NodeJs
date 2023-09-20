@@ -34,3 +34,8 @@ node (nome do arquivo editado)
 
 *Para sair, aperte o Ctrl + C
 
+- Para sair:
+  Digite:
+ deactivate_node
+
+ Ou sai o terminal!
