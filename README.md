@@ -2,15 +2,18 @@
 - Isabella Texeira dos Santos
   
 Ferramentas: Github, nano, nodejs, node-env
+  
 Após a instalação do Node.js (use como base o tutorial do Classroom):
   
 - Para iniciar:
 *Se você já abrir o terminal direto da pasta do nodejs-env, pule esse primeiro código e vá para o 'source...'
   
   Dentro do terminal, digite:
+    
 cd ~/(nome da pasta que o nodejs-env está)/nodejs-env
   
   Resultado deve ser semelhante a isso:
+    
 aluno@aluno-VirtualBox:~/Documents/nodejs-env$
   
  Depois digite:
