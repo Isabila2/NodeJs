@@ -1,1 +1,31 @@
-# NodeJs
+# NodeJs 
+- Isabella Texeira dos Santos
+
+Após a instalação do Node.js (use como base o tutorial do Classroom):
+
+- Para iniciar:
+  Dentro do terminal, digite:
+cd ~/(nome da pasta que o nodejs-env está)/nodejs-env
+
+  Resultado deve ser semelhante a isso:
+aluno@aluno-VirtualBox:~/Documents/nodejs-env$
+
+ Depois digite:
+source ./bin/activate  (se você abrir direto na pasta do nodejs)  ou
+source ./nodejs-env/bin/activate  (se você pegar de alguma outras pasta, por exemplo, 'documents')
+
+ Resultado:
+*não aparece nada* 
+
+ Em seguida, ainda no terminal, digite:
+node --version (para ver a versão)
+
+ Resultado deve ser semelhante a isso:
+v20.5.1 
+
+- Para editar:
+  Se quiser editar algo pelo terminal, use o 'nano', com esse comando:
+ sudo nano (nome do arquivo)
+
+  Depois de editá-lo, ative digitando:
+node (nome do arquivo editado)
