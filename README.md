@@ -3,14 +3,14 @@
   
 Ferramentas: Github, nano, nodejs, node-env
   
-Após a instalação do Node.js (use como base o tutorial do Classroom):
+- Após a instalação do Node.js (use como base o tutorial do Classroom):
   
 - Para iniciar:
   
 *Se você já abrir o terminal direto da pasta do nodejs-env, pule esse primeiro código e vá para o 'source...'
   
   
-  Dentro do terminal, digite:
+- Dentro do terminal, digite:
     
 cd ~/(nome da pasta que o nodejs-env está)/nodejs-env
   
@@ -20,7 +20,7 @@ cd ~/(nome da pasta que o nodejs-env está)/nodejs-env
 aluno@aluno-VirtualBox:~/Documents/nodejs-env$
 
     
- Depois digite:
+- Depois digite:
    
 source ./bin/activate  (se você abrir direto na pasta do nodejs)  ou
   
@@ -32,7 +32,7 @@ source ./nodejs-env/bin/activate  (se você ainda não entrou na pasta do 'nodej
 (nodejs-env) aluno@aluno-VirtualBox:~/Documents/nodejs-env$
 
   
- Em seguida, ainda no terminal, digite: OPCIONAL
+- Em seguida, ainda no terminal, digite: OPCIONAL
    
 node --version (para ver a versão)
 
@@ -49,7 +49,7 @@ v20.5.1
  sudo nano (nome do arquivo)
   
   
-  Depois de editá-lo, ative digitando:
+ - Depois de editá-lo, ative digitando:
     
 node (nome do arquivo editado)
 
