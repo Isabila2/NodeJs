@@ -19,7 +19,7 @@ source ./nodejs-env/bin/activate  (se você ainda não entrou na pasta do 'nodej
  Resultado:
 (nodejs-env) aluno@aluno-VirtualBox:~/Documents/nodejs-env$
   
- Em seguida, ainda no terminal, digite:
+ Em seguida, ainda no terminal, digite: OPCIONAL
 node --version (para ver a versão)
   
  Resultado deve ser semelhante a isso:
@@ -35,10 +35,9 @@ node (nome do arquivo editado)
 - Para testar:
 no firefox, digite:
 localhost:(8000 + o número do computador)
+    
   
-*Para sair, aperte o Ctrl + C
-  
-- Para sair:
+- Para desativar:  
   Digite:
  deactivate_node
   
