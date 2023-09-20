@@ -69,4 +69,4 @@ localhost:(8000 + o número do computador)
  deactivate_node
 
     
- Ou sai o terminal!
+ Ou sai do terminal!
